@@ -13,9 +13,7 @@
   <body>
    
     <div style="width: 100%; height:100vh; display:flex; justify-content:space-evenly; align-items:center; background:#353b48; ">
-        <a href="download/bloco.txt" class="btn btn-success">NoteBlock Download</a>
         <a href="#login" class="btn btn-primary">Ir para Login</a>
-        <a href="download/avatar.jpg" class="btn btn-success">Image Download</a>
     </div>
 
     <div id="login" style="width:100%; height:100vh; background:#2f3640; display:flex; align-items:center; justify-content:center;">
